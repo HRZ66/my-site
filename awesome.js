@@ -49,24 +49,6 @@ const app = new Vue({
 				'Runze is from China. He is a perfectionist, and has a cool girlfriend. He is really nice, and funny even though he does not try to be. He is really hot, and sexy as hell. Though he does not always arrive on time, he is still  really good friend.----Ryan',
 				'Runze is a really smart and funny guy that can only be described as savage. Im really happy to know him and i envy his out going and fun loving personality. He’s always ready to try something new with Ryan and I and i respect him for that.----Maxx'
 				),
-
-			new Post(
-				'Another Post: Promptly judged',
-				'https://vuejs.org',
-				'Jane Author',
-				'https://unsplash.it/200',
-				'',
-				'We promptly judged antique ivory buckles for the next prize. Adipiscing elit. Morbi viverra euismod euismod. Nulla leo est, venenatis at fringilla eget, tincidunt sed justo. In efficitur dui odio, sit amet finibus sem hendrerit ut. Etiam vestibulum sem vel metus lobortis, vitae dictum metus sagittis. Nulla facilisi.'
-				),
-
-			new Post(
-				'Last Post: Jaded zombies',
-				'https://google.com',
-				'Anptoght Author',
-				'https://unsplash.it/200',
-				'',
-				'Jaded zombies acted quaintly but kept driving their oxen forward. Morbi viverra euismod euismod. Nulla leo est, venenatis at fringilla eget, tincidunt sed justo. In efficitur dui odio, sit amet finibus sem hendrerit ut. Etiam vestibulum sem vel metus lobortis, vitae dictum metus sagittis. Nulla facilisi.'
-				)
 		]
 	},
 	computed: {
